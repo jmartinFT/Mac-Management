@@ -13,7 +13,7 @@
 		<key>APP_FILENAME</key>
 		<string>Visual Studio Code</string>
 		<key>DOWNLOAD_URL</key>
-		<string>https://go.microsoft.com/fwlink/?LinkID=620882</string>
+		<string>https://code.visualstudio.com/Docs/?dv=osx</string>
 		<key>NAME</key>
 		<string>Code</string>
 	</dict>
