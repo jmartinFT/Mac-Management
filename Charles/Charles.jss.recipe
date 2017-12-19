@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Charles and makes a pkg of it then uploads it to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.jss-recipes.jss.Charles</string>
+	<string>com.github.JMartinFT.pkg.Charles</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
